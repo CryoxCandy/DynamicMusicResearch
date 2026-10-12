@@ -4,8 +4,8 @@ using FMODUnity;
 
 public class DangerController : MonoBehaviour
 {
-    public StudioEventEmitter emitter;   // drag MusicManager here
-    public Slider dangerSlider;          // drag your Slider here
+    public StudioEventEmitter emitter;
+    public Slider dangerSlider;
 
     void Update()
     {

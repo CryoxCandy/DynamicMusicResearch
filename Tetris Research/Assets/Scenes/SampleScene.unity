@@ -737,6 +737,81 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1425773330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1425773332}
+  - component: {fileID: 1425773331}
+  - component: {fileID: 1425773333}
+  m_Layer: 0
+  m_Name: Tetris
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1425773331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1425773330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934c59a187315984da0867902e55a735, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boardWidth: 10
+  boardHeight: 20
+  startLevel: 1
+  linesPerLevel: 10
+  speedUpWithLevel: 1
+  softDropInterval: 0.05
+  lockDelay: 0.5
+  maxLockResets: 15
+  autoRepeatDelay: 0.17
+  autoRepeatInterval: 0.05
+  previewCount: 3
+--- !u!4 &1425773332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1425773330}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1425773333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1425773330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77e5a4cae5a68f40b24c4468bbec643, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  frameCamera: 1
+  backgroundColor: {r: 0.06, g: 0.06, b: 0.08, a: 1}
+  emptyCellColor: {r: 0.13, g: 0.13, b: 0.16, a: 1}
+  borderColor: {r: 0.45, g: 0.45, b: 0.5, a: 1}
+  ghostStrength: 0.3
+  showControls: 1
+  showMusicInputs: 1
 --- !u!1 &1769026002
 GameObject:
   m_ObjectHideFlags: 0
@@ -1001,3 +1076,4 @@ SceneRoots:
   - {fileID: 1782990342}
   - {fileID: 2047586247}
   - {fileID: 916253501}
+  - {fileID: 1425773332}

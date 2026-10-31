@@ -9,8 +9,11 @@
 		</relationship>
 	</object>
 	<object class="ProjectSettings" id="{b532cd42-189e-43c4-bbd9-3a041ea5e8eb}">
+		<property name="openWindows">
+			<value>Event Editor 1</value>
+		</property>
 		<property name="windowLayout">
-			<value>AAAAAgAAABYAQQB1AGQAaQBvACAAQgBpAG4AIAAxAAAAQgHZ0MsAAwAA///6OQAAAUn///vIAAAEN///+jkAAAFo///7yAAABDcAAAABAAAAAAoA///6OQAAAWj///vIAAAENwAAACgAUABhAHIAYQBtAGUAdABlAHIAcwAgAEIAcgBvAHcAcwBlAHIAIAAxAAAAQgHZ0MsAAwAA///6OQAAAUn///vIAAAEN///+jkAAAFo///7yAAABDcAAAABAAAAAAoA///6OQAAAWj///vIAAAENw==</value>
+			<value>AAAAAwAAABYAQQB1AGQAaQBvACAAQgBpAG4AIAAxAAAAQgHZ0MsAAwAA///6OQAAAUn///vIAAAEN///+jkAAAFo///7yAAABDcAAAABAAAAAAoA///6OQAAAWj///vIAAAENwAAABwARQB2AGUAbgB0ACAARQBkAGkAdABvAHIAIAAxAAAAQgHZ0MsAAwAAAAAAAP////gAAAn/AAAFnwAAA8AAAAHgAAAH3wAAA4MAAAAAAgAAAAoAAAAAAAAAABcAAAn/AAAFnwAAACgAUABhAHIAYQBtAGUAdABlAHIAcwAgAEIAcgBvAHcAcwBlAHIAIAAxAAAAQgHZ0MsAAwAA///6OQAAAUn///vIAAAEN///+jkAAAFo///7yAAABDcAAAABAAAAAAoA///6OQAAAWj///vIAAAENw==</value>
 		</property>
 		<relationship name="activePlatform">
 			<destination>{21b31088-7f88-45a0-a550-9705bd6079c4}</destination>

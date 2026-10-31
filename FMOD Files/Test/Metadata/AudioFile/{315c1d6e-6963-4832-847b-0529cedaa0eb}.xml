@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{315c1d6e-6963-4832-847b-0529cedaa0eb}">
+		<property name="assetPath">
+			<value>Music/Arp.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>23.602104166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1e39111b-146f-4106-82dd-59e8cda51475}</destination>
+		</relationship>
+	</object>
+</objects>

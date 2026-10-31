@@ -456,7 +456,7 @@ MonoBehaviour:
   parameterName: Danger
   adaptive: 1
   staticDanger: 0.5
-  fadeOutSeconds: 4
+  fadeOutSeconds: 1.5
 --- !u!114 &1782990341
 MonoBehaviour:
   m_ObjectHideFlags: 0

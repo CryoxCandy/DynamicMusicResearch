@@ -1,0 +1,11 @@
+Participant ID,Version A was,Version B was,1.1 Consent,1.2 Age,1.3 Play games,1.4 Played Tetris,1.5 Music on in games,1.6 Musical training,1.7 Hearing difficulty,4.1 Enjoyed more (A/B/N),4.2 More tense (A/B/N),4.3 Music fit better (A/B/N),4.4 Played better (A/B/N),4.5 Would choose (A/B/N),4.6 Noticed difference,4.7 What was different (text),4.8 Anything else (text),4.1 Enjoyed more,4.2 More tense,4.3 Music fit better,4.4 Played better,4.5 Would choose
+P01,Adaptive,Static,1,2,3,4,5,2,0,N,N,B,A,N,1,"I was focused on the blocks, didn't really notice the music.",,No difference,No difference,Static,Adaptive,No difference
+P02,Static,Adaptive,1,1,3,2,3,1,0,B,A,B,A,B,3,Version B reacted to how I was doing. It got faster and heavier when my stack was high.,,Adaptive,Static,Adaptive,Static,Adaptive
+P03,Adaptive,Static,1,1,3,1,5,1,0,A,A,A,B,N,1,They sounded the same to me.,"Fun game, controls felt good.",Adaptive,Adaptive,Adaptive,Static,No difference
+P04,Static,Adaptive,1,3,1,2,5,2,0,B,A,B,B,B,1,"I was focused on the blocks, didn't really notice the music.",Would be nice to have a hold piece.,Adaptive,Static,Adaptive,Adaptive,Adaptive
+P05,Adaptive,Static,1,2,3,4,3,1,0,B,A,N,N,B,9,"Not sure, I wasn't really listening.",,Static,Adaptive,No difference,No difference,Static
+P06,Static,Adaptive,1,1,1,2,5,4,0,B,N,B,B,B,2,Maybe Version B was a bit more intense? Hard to say.,The music was catchy.,Adaptive,No difference,Adaptive,Adaptive,Adaptive
+P07,Adaptive,Static,1,1,1,2,3,2,0,N,A,A,A,A,2,I think Version A changed a little when things got hard.,,No difference,Adaptive,Adaptive,Adaptive,Adaptive
+P08,Static,Adaptive,1,1,2,2,3,1,0,N,B,B,B,N,9,,A bit hard to start with.,No difference,Adaptive,Adaptive,Adaptive,No difference
+P09,Adaptive,Static,1,2,2,1,4,1,0,A,A,A,B,N,1,They sounded the same to me.,,Adaptive,Adaptive,Adaptive,Static,No difference
+P10,Static,Adaptive,1,1,2,2,5,1,0,A,B,B,B,N,1,"I was focused on the blocks, didn't really notice the music.",Enjoyed it!,Static,Adaptive,Adaptive,Adaptive,No difference

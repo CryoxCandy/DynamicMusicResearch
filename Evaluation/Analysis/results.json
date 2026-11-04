@@ -1,0 +1,739 @@
+{
+  "n": 10,
+  "items": {
+    "x.1 Highest score": {
+      "label": "Highest score",
+      "adaptive_mean": 4963.0,
+      "adaptive_sd": 1561.8155389730819,
+      "adaptive_median": 4970.0,
+      "static_mean": 4696.0,
+      "static_sd": 1613.617054942095,
+      "static_median": 4650.0,
+      "diff_mean": 267.0,
+      "diff_ci_lo": -588.0106223119537,
+      "diff_ci_hi": 1122.0106223119537,
+      "n_higher_adaptive": 7,
+      "n_same": 0,
+      "n_higher_static": 3,
+      "n": 10,
+      "Wplus": 34.0,
+      "Wminus": 21.0,
+      "p": 0.556640625,
+      "r_rb": 0.23636363636363636,
+      "z": 0.6625413488689132,
+      "paired_t": 0.7064192498964655,
+      "paired_t_p": 0.4978063099230729,
+      "pct_change": 5.685689948892675
+    },
+    "x.2 Game Overs": {
+      "label": "Game Overs (0-3)",
+      "adaptive_mean": 0.5,
+      "adaptive_sd": 0.97182531580755,
+      "adaptive_median": 0.0,
+      "static_mean": 1.6,
+      "static_sd": 1.2649110640673518,
+      "static_median": 2.0,
+      "diff_mean": -1.1,
+      "diff_ci_lo": -2.0204382406408885,
+      "diff_ci_hi": -0.17956175935911178,
+      "n_higher_adaptive": 0,
+      "n_same": 5,
+      "n_higher_static": 5,
+      "n": 5,
+      "Wplus": 0.0,
+      "Wminus": 15.0,
+      "p": 0.0625,
+      "r_rb": -1.0,
+      "z": -2.041241452319315
+    },
+    "a Enjoyed": {
+      "label": "a. Enjoyed",
+      "adaptive_mean": 3.8,
+      "adaptive_sd": 0.9189365834726815,
+      "adaptive_median": 4.0,
+      "static_mean": 3.8,
+      "static_sd": 1.1352924243950935,
+      "static_median": 4.0,
+      "diff_mean": 0.0,
+      "diff_ci_lo": -0.8922068171349631,
+      "diff_ci_hi": 0.8922068171349631,
+      "n_higher_adaptive": 3,
+      "n_same": 5,
+      "n_higher_static": 2,
+      "n": 5,
+      "Wplus": 7.0,
+      "Wminus": 8.0,
+      "p": 1.0,
+      "r_rb": -0.06666666666666667,
+      "z": -0.13801311186847084
+    },
+    "b Absorbed": {
+      "label": "b. Absorbed",
+      "adaptive_mean": 4.2,
+      "adaptive_sd": 0.7888106377466155,
+      "adaptive_median": 4.0,
+      "static_mean": 3.5,
+      "static_sd": 1.1785113019775793,
+      "static_median": 4.0,
+      "diff_mean": 0.7,
+      "diff_ci_lo": -0.19538760019030033,
+      "diff_ci_hi": 1.5953876001903002,
+      "n_higher_adaptive": 6,
+      "n_same": 2,
+      "n_higher_static": 2,
+      "n": 8,
+      "Wplus": 29.0,
+      "Wminus": 7.0,
+      "p": 0.1796875,
+      "r_rb": 0.6111111111111112,
+      "z": 1.6109544570640675
+    },
+    "c Lost track of time": {
+      "label": "c. Lost track of time",
+      "adaptive_mean": 3.3,
+      "adaptive_sd": 0.6749485577105528,
+      "adaptive_median": 3.0,
+      "static_mean": 3.0,
+      "static_sd": 1.247219128924647,
+      "static_median": 3.0,
+      "diff_mean": 0.3,
+      "diff_ci_lo": -0.5294576263593418,
+      "diff_ci_hi": 1.1294576263593417,
+      "n_higher_adaptive": 5,
+      "n_same": 3,
+      "n_higher_static": 2,
+      "n": 7,
+      "Wplus": 18.5,
+      "Wminus": 9.5,
+      "p": 0.59375,
+      "r_rb": 0.32142857142857145,
+      "z": 0.7908745952947442
+    },
+    "d Tense": {
+      "label": "d. Tense / under pressure",
+      "adaptive_mean": 3.3,
+      "adaptive_sd": 0.48304589153964794,
+      "adaptive_median": 3.0,
+      "static_mean": 2.8,
+      "static_sd": 1.1352924243950935,
+      "static_median": 3.0,
+      "diff_mean": 0.5,
+      "diff_ci_lo": -0.27267376906853535,
+      "diff_ci_hi": 1.2726737690685352,
+      "n_higher_adaptive": 5,
+      "n_same": 3,
+      "n_higher_static": 2,
+      "n": 7,
+      "Wplus": 22.0,
+      "Wminus": 6.0,
+      "p": 0.25,
+      "r_rb": 0.5714285714285714,
+      "z": 1.4059992805239898
+    },
+    "e More tense as stack rose": {
+      "label": "e. More tense as stack rose",
+      "adaptive_mean": 3.4,
+      "adaptive_sd": 1.1737877907772674,
+      "adaptive_median": 4.0,
+      "static_mean": 2.8,
+      "static_sd": 1.0327955589886444,
+      "static_median": 3.0,
+      "diff_mean": 0.6,
+      "diff_ci_lo": -0.3656582238663676,
+      "diff_ci_hi": 1.5656582238663677,
+      "n_higher_adaptive": 6,
+      "n_same": 1,
+      "n_higher_static": 3,
+      "n": 9,
+      "Wplus": 33.0,
+      "Wminus": 12.0,
+      "p": 0.28515625,
+      "r_rb": 0.4666666666666667,
+      "z": 1.309944009258791
+    },
+    "f In control": {
+      "label": "f. In control",
+      "adaptive_mean": 3.8,
+      "adaptive_sd": 1.0327955589886446,
+      "adaptive_median": 4.0,
+      "static_mean": 3.6,
+      "static_sd": 0.8432740427115678,
+      "static_median": 3.0,
+      "diff_mean": 0.2,
+      "diff_ci_lo": -0.3642811372151657,
+      "diff_ci_hi": 0.7642811372151657,
+      "n_higher_adaptive": 4,
+      "n_same": 4,
+      "n_higher_static": 2,
+      "n": 6,
+      "Wplus": 14.0,
+      "Wminus": 7.0,
+      "p": 0.6875,
+      "r_rb": 0.3333333333333333,
+      "z": 0.8164965809277259
+    },
+    "g Music fit the game": {
+      "label": "g. Music fit the game",
+      "adaptive_mean": 3.8,
+      "adaptive_sd": 0.9189365834726815,
+      "adaptive_median": 4.0,
+      "static_mean": 3.1,
+      "static_sd": 0.7378647873726218,
+      "static_median": 3.0,
+      "diff_mean": 0.7,
+      "diff_ci_lo": 0.021352851160538533,
+      "diff_ci_hi": 1.3786471488394614,
+      "n_higher_adaptive": 6,
+      "n_same": 3,
+      "n_higher_static": 1,
+      "n": 7,
+      "Wplus": 25.0,
+      "Wminus": 3.0,
+      "p": 0.09375,
+      "r_rb": 0.7857142857142857,
+      "z": 1.9332490107204858
+    },
+    "h Music signalled danger": {
+      "label": "h. Music signalled danger",
+      "adaptive_mean": 3.6,
+      "adaptive_sd": 1.07496769977314,
+      "adaptive_median": 4.0,
+      "static_mean": 2.6,
+      "static_sd": 0.8432740427115678,
+      "static_median": 3.0,
+      "diff_mean": 1.0,
+      "diff_ci_lo": 0.046190792039113915,
+      "diff_ci_hi": 1.953809207960886,
+      "n_higher_adaptive": 7,
+      "n_same": 2,
+      "n_higher_static": 1,
+      "n": 8,
+      "Wplus": 32.5,
+      "Wminus": 3.5,
+      "p": 0.0546875,
+      "r_rb": 0.8055555555555556,
+      "z": 2.1235308752208164
+    },
+    "i Music distracting": {
+      "label": "i. Music distracting (neg.)",
+      "adaptive_mean": 2.0,
+      "adaptive_sd": 0.6666666666666666,
+      "adaptive_median": 2.0,
+      "static_mean": 2.1,
+      "static_sd": 0.9944289260117533,
+      "static_median": 2.0,
+      "diff_mean": -0.1,
+      "diff_ci_lo": -0.7263629556723539,
+      "diff_ci_hi": 0.5263629556723539,
+      "n_higher_adaptive": 2,
+      "n_same": 6,
+      "n_higher_static": 2,
+      "n": 4,
+      "Wplus": 4.0,
+      "Wminus": 6.0,
+      "p": 1.0,
+      "r_rb": -0.2,
+      "z": -0.3779644730092272
+    },
+    "j Music repetitive": {
+      "label": "j. Music repetitive (neg.)",
+      "adaptive_mean": 2.5,
+      "adaptive_sd": 1.35400640077266,
+      "adaptive_median": 2.5,
+      "static_mean": 2.7,
+      "static_sd": 1.0593499054713802,
+      "static_median": 2.5,
+      "diff_mean": -0.2,
+      "diff_ci_lo": -0.9388174355783598,
+      "diff_ci_hi": 0.5388174355783599,
+      "n_higher_adaptive": 3,
+      "n_same": 3,
+      "n_higher_static": 4,
+      "n": 7,
+      "Wplus": 10.5,
+      "Wminus": 17.5,
+      "p": 0.765625,
+      "r_rb": -0.25,
+      "z": -0.6324555320336759
+    },
+    "x.6 Music rating (1-10)": {
+      "label": "Music rating (1-10)",
+      "adaptive_mean": 6.6,
+      "adaptive_sd": 1.0749676997731399,
+      "adaptive_median": 7.0,
+      "static_mean": 5.9,
+      "static_sd": 1.3703203194062978,
+      "static_median": 5.5,
+      "diff_mean": 0.7,
+      "diff_ci_lo": -0.12945762635934177,
+      "diff_ci_hi": 1.5294576263593416,
+      "n_higher_adaptive": 6,
+      "n_same": 2,
+      "n_higher_static": 2,
+      "n": 8,
+      "Wplus": 30.0,
+      "Wminus": 6.0,
+      "p": 0.125,
+      "r_rb": 0.6666666666666666,
+      "z": 1.7320508075688774
+    }
+  },
+  "crossover": {
+    "x.1 Highest score": {
+      "treatment_effect": 267.0,
+      "period_effect": -99.0,
+      "treatment_p": 0.5476190476190477,
+      "period_p": 0.8412698412698413,
+      "d_ab": [
+        1180.0,
+        -1200.0,
+        830.0,
+        1040.0,
+        -1010.0
+      ],
+      "d_ba": [
+        1840.0,
+        -1240.0,
+        -290.0,
+        -500.0,
+        -1640.0
+      ]
+    },
+    "x.2 Game Overs": {
+      "treatment_effect": -1.1,
+      "period_effect": 0.7,
+      "treatment_p": 0.031746031746031744,
+      "period_p": 0.15079365079365079,
+      "d_ab": [
+        0.0,
+        0.0,
+        0.0,
+        -2.0,
+        0.0
+      ],
+      "d_ba": [
+        3.0,
+        1.0,
+        3.0,
+        0.0,
+        2.0
+      ]
+    },
+    "a Enjoyed": {
+      "treatment_effect": 0.0,
+      "period_effect": 0.0,
+      "treatment_p": 1.0,
+      "period_p": 1.0,
+      "d_ab": [
+        0.0,
+        1.0,
+        -2.0,
+        0.0,
+        1.0
+      ],
+      "d_ba": [
+        0.0,
+        0.0,
+        -2.0,
+        0.0,
+        2.0
+      ]
+    },
+    "f In control": {
+      "treatment_effect": 0.2,
+      "period_effect": 0.0,
+      "treatment_p": 0.5476190476190477,
+      "period_p": 1.0,
+      "d_ab": [
+        0.0,
+        1.0,
+        1.0,
+        0.0,
+        -1.0
+      ],
+      "d_ba": [
+        0.0,
+        -1.0,
+        -1.0,
+        1.0,
+        0.0
+      ]
+    },
+    "h Music signalled danger": {
+      "treatment_effect": 1.0,
+      "period_effect": -0.8,
+      "treatment_p": 0.031746031746031744,
+      "period_p": 0.05555555555555555,
+      "d_ab": [
+        0.0,
+        1.0,
+        -1.0,
+        1.0,
+        0.0
+      ],
+      "d_ba": [
+        -1.0,
+        -1.0,
+        -4.0,
+        -1.0,
+        -2.0
+      ]
+    },
+    "g Music fit the game": {
+      "treatment_effect": 0.7,
+      "period_effect": -0.10000000000000003,
+      "treatment_p": 0.09523809523809523,
+      "period_p": 0.8412698412698413,
+      "d_ab": [
+        -1.0,
+        0.0,
+        0.0,
+        2.0,
+        2.0
+      ],
+      "d_ba": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "b Absorbed": {
+      "treatment_effect": 0.7,
+      "period_effect": -0.10000000000000003,
+      "treatment_p": 0.2222222222222222,
+      "period_p": 1.0,
+      "d_ab": [
+        0.0,
+        -1.0,
+        2.0,
+        1.0,
+        1.0
+      ],
+      "d_ba": [
+        -1.0,
+        1.0,
+        -3.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "x.6 Music rating (1-10)": {
+      "treatment_effect": 0.7,
+      "period_effect": 0.3,
+      "treatment_p": 0.2222222222222222,
+      "period_p": 0.6904761904761905,
+      "d_ab": [
+        0.0,
+        1.0,
+        1.0,
+        2.0,
+        1.0
+      ],
+      "d_ba": [
+        1.0,
+        1.0,
+        -2.0,
+        0.0,
+        -2.0
+      ]
+    }
+  },
+  "order": {
+    "x.1 Highest score": {
+      "first_mean": 4780.0,
+      "second_mean": 4879.0
+    },
+    "x.2 Game Overs": {
+      "first_mean": 1.4,
+      "second_mean": 0.7
+    },
+    "a Enjoyed": {
+      "first_mean": 3.8,
+      "second_mean": 3.8
+    },
+    "f In control": {
+      "first_mean": 3.7,
+      "second_mean": 3.7
+    }
+  },
+  "music_changed": {
+    "Adaptive": {
+      "yes": 4,
+      "no": 5,
+      "not_sure": 1
+    },
+    "Static": {
+      "yes": 1,
+      "no": 5,
+      "not_sure": 4
+    }
+  },
+  "music_changed_adaptive_by_order": {
+    "played_first": {
+      "yes": 4,
+      "no": 1,
+      "not_sure": 0
+    },
+    "played_second": {
+      "yes": 0,
+      "no": 4,
+      "not_sure": 1
+    }
+  },
+  "game_overs_adaptive_by_order": {
+    "played_first": 0.8,
+    "played_second": 0.2
+  },
+  "part4": {
+    "4.1 Enjoyed more": {
+      "adaptive": 5,
+      "static": 2,
+      "no_difference": 3,
+      "sign_test_p": 0.453125
+    },
+    "4.2 More tense": {
+      "adaptive": 6,
+      "static": 2,
+      "no_difference": 2,
+      "sign_test_p": 0.2890625
+    },
+    "4.3 Music fit better": {
+      "adaptive": 8,
+      "static": 1,
+      "no_difference": 1,
+      "sign_test_p": 0.0390625
+    },
+    "4.4 Played better": {
+      "adaptive": 6,
+      "static": 3,
+      "no_difference": 1,
+      "sign_test_p": 0.5078125
+    },
+    "4.5 Would choose": {
+      "adaptive": 4,
+      "static": 1,
+      "no_difference": 5,
+      "sign_test_p": 0.375
+    }
+  },
+  "order_check_4_1": {
+    "chose_first": 3,
+    "chose_second": 4,
+    "no_difference": 3
+  },
+  "noticed_difference": {
+    "clear": 1,
+    "slight": 2,
+    "none": 5,
+    "not_sure": 2
+  },
+  "fit_among_no_or_unsure_difference": {
+    "Adaptive": 5,
+    "Static": 1,
+    "No difference": 1,
+    "n": 7
+  },
+  "fit_among_no_difference_only": {
+    "Adaptive": 4,
+    "Static": 1
+  },
+  "demographics": {
+    "age": {
+      "18–24": 6,
+      "25–34": 3,
+      "35–44": 1
+    },
+    "play_games": {
+      "Never": 3,
+      "Rarely": 3,
+      "A few times a month": 4
+    },
+    "played_tetris": {
+      "Never": 2,
+      "A few times": 6,
+      "A lot": 2
+    },
+    "music_on": {
+      "Sometimes": 4,
+      "Usually": 1,
+      "Always": 5
+    },
+    "musical_training": {
+      "None": 6,
+      "Under 2 years": 3,
+      "More than 5 years": 1
+    },
+    "hearing_difficulty": 0,
+    "consented": 10
+  },
+  "composites": {
+    "Immersion (b, c)": {
+      "adaptive_mean": 3.75,
+      "static_mean": 3.25,
+      "diff": 0.5,
+      "n_higher_adaptive": 8,
+      "n_same": 1,
+      "n_higher_static": 1,
+      "n": 9,
+      "Wplus": 37.0,
+      "Wminus": 8.0,
+      "p": 0.07421875,
+      "r_rb": 0.6444444444444445,
+      "z": 1.7503577568220248
+    },
+    "Tension (d, e)": {
+      "adaptive_mean": 3.35,
+      "static_mean": 2.8,
+      "diff": 0.55,
+      "n_higher_adaptive": 6,
+      "n_same": 3,
+      "n_higher_static": 1,
+      "n": 7,
+      "Wplus": 23.5,
+      "Wminus": 4.5,
+      "p": 0.140625,
+      "r_rb": 0.6785714285714286,
+      "z": 1.6232795496618457
+    },
+    "Music responsiveness (g, h)": {
+      "adaptive_mean": 3.7,
+      "static_mean": 2.85,
+      "diff": 0.85,
+      "n_higher_adaptive": 8,
+      "n_same": 0,
+      "n_higher_static": 2,
+      "n": 10,
+      "Wplus": 51.0,
+      "Wminus": 4.0,
+      "p": 0.013671875,
+      "r_rb": 0.8545454545454545,
+      "z": 2.4335677534689393
+    },
+    "Music intrusiveness (i, j)": {
+      "adaptive_mean": 2.25,
+      "static_mean": 2.4,
+      "diff": -0.15,
+      "n_higher_adaptive": 2,
+      "n_same": 3,
+      "n_higher_static": 5,
+      "n": 7,
+      "Wplus": 9.5,
+      "Wminus": 18.5,
+      "p": 0.59375,
+      "r_rb": -0.32142857142857145,
+      "z": -0.7908745952947442
+    }
+  },
+  "comments": [
+    {
+      "pid": "P01",
+      "q": "4.7",
+      "first": "Adaptive",
+      "text": "I was focused on the blocks, didn't really notice the music."
+    },
+    {
+      "pid": "P02",
+      "q": "4.7",
+      "first": "Static",
+      "text": "Version B reacted to how I was doing. It got faster and heavier when my stack was high."
+    },
+    {
+      "pid": "P03",
+      "q": "4.7",
+      "first": "Adaptive",
+      "text": "They sounded the same to me."
+    },
+    {
+      "pid": "P03",
+      "q": "4.8",
+      "first": "Adaptive",
+      "text": "Fun game, controls felt good."
+    },
+    {
+      "pid": "P04",
+      "q": "4.7",
+      "first": "Static",
+      "text": "I was focused on the blocks, didn't really notice the music."
+    },
+    {
+      "pid": "P04",
+      "q": "4.8",
+      "first": "Static",
+      "text": "Would be nice to have a hold piece."
+    },
+    {
+      "pid": "P05",
+      "q": "4.7",
+      "first": "Adaptive",
+      "text": "Not sure, I wasn't really listening."
+    },
+    {
+      "pid": "P06",
+      "q": "4.7",
+      "first": "Static",
+      "text": "Maybe Version B was a bit more intense? Hard to say."
+    },
+    {
+      "pid": "P06",
+      "q": "4.8",
+      "first": "Static",
+      "text": "The music was catchy."
+    },
+    {
+      "pid": "P07",
+      "q": "4.7",
+      "first": "Adaptive",
+      "text": "I think Version A changed a little when things got hard."
+    },
+    {
+      "pid": "P08",
+      "q": "4.8",
+      "first": "Static",
+      "text": "A bit hard to start with."
+    },
+    {
+      "pid": "P09",
+      "q": "4.7",
+      "first": "Adaptive",
+      "text": "They sounded the same to me."
+    },
+    {
+      "pid": "P10",
+      "q": "4.7",
+      "first": "Static",
+      "text": "I was focused on the blocks, didn't really notice the music."
+    },
+    {
+      "pid": "P10",
+      "q": "4.8",
+      "first": "Static",
+      "text": "Enjoyed it!"
+    },
+    {
+      "pid": "P05",
+      "q": "2.5",
+      "condition": "Adaptive",
+      "text": "Got faster near the top."
+    },
+    {
+      "pid": "P07",
+      "q": "2.5",
+      "condition": "Adaptive",
+      "text": "Calmed down after I cleared lines."
+    },
+    {
+      "pid": "P09",
+      "q": "2.5",
+      "condition": "Adaptive",
+      "text": "Got louder when I was about to lose."
+    },
+    {
+      "pid": "P09",
+      "q": "3.5",
+      "condition": "Static",
+      "text": "I think it changed but I'm not sure when."
+    }
+  ]
+}

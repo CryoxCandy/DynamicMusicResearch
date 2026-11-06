@@ -6,7 +6,7 @@ A Unity 6 Tetris prototype whose soundtrack adapts **continuously** to danger. T
 
 | | |
 |---|---|
-| **Portfolio video** | [Echo360 link] |
+| **Portfolio video** | https://echo360.net.au/media/8e8a0896-d707-480b-b04b-0a0630139118/public |
 | **Evaluation artefacts** | [`Evaluation/`](Evaluation/): questionnaire, protocol, coded data, analysis code and results |
 | **Built with** | Unity 6 (6000.0.66f2), FMOD Studio and FMOD for Unity |
 
@@ -204,7 +204,7 @@ Board width and height (10 × 20), start level, lines per level (10), whether sp
 
 ## Credits and references
 
-- **Music:** ten stems composed and produced in FL Studio by [producer’s name], to a layering brief written for this project.
+- **Music:** ten stems composed and produced in FL Studio by ffoX, to a layering brief written for this project.
 - **Rotation system:** SRS wall-kick data from the [TetrisWiki](https://tetris.wiki/Super_Rotation_System). Tetris was created by Alexey Pajitnov (1984); this is a non-commercial study prototype.
 - **Tools:** [Unity](https://unity.com), [FMOD Studio and FMOD for Unity](https://www.fmod.com) by Firelight Technologies, [FL Studio](https://www.image-line.com) by Image-Line.
 - **Research that shaped the design and evaluation:**
